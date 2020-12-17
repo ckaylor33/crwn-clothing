@@ -16,3 +16,4 @@ Lessons Learned
 - using react you have to learn to deal with errors, dependency conflicts, and decide what you need and why you need it - effectively.
 - must decide on components, decide the State and where it lives, what changes when state changes? How are things connected in the virtual DOM?
 - need to make sure the components are nice and simple and make sense to you
+- dynamic values to give flexibility when building and styling components
