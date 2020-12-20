@@ -17,3 +17,4 @@ Lessons Learned
 - must decide on components, decide the State and where it lives, what changes when state changes? How are things connected in the virtual DOM?
 - need to make sure the components are nice and simple and make sense to you
 - dynamic values to give flexibility when building and styling components
+- react-router-dom for routing different pages
